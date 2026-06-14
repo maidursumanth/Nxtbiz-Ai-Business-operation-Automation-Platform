@@ -245,7 +245,7 @@ npm run dev
 
 ## 📷 Screenshots
 
-Add your application screenshots here.
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
