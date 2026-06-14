@@ -245,7 +245,7 @@ npm run dev
 
 ## 📷 Screenshots
 
-![Screenshot 2026-06-14 205326](Screenshot 2026-06-14 205326.png)
+![Dashboard](Dashboard.png)
 
 ---
 
